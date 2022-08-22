@@ -5,7 +5,7 @@ The following code uses Manhattan distance as a
 heuristic function and uses informed search strategy
 to solve a given 8 Puzzle problem
 
-NOTE: The following code only works goven a solution exists
+NOTE: The following code only works given a solution exists
 
 '''
 
